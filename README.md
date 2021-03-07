@@ -1,6 +1,6 @@
 # Online-News-Popularity
 
-Accelerated growth of online news service and social media have increased the importance of learning and understanding readers’ unseen behavioural patterns. This project predicts he popularity of an online news article and determine whether it will draw significant attention. The model will help to decide the content of articles or the timing of the release to maximize the popularity of the articles.
+Accelerated growth of online news service and social media have increased the importance of learning and understanding readers’ unseen behavioural patterns. This project predicts the popularity of an online news article and determine whether it will draw significant attention. The model will help to decide the content of articles or the timing of the release to maximize the popularity of the articles.
 
 The dataset for the project is about the Online News Popularity of Mashable articles; the source of the dataset is UCI Machine Learning Repository.The dataset contains 39,797 instances and 61 attributes. The attributes contain both quantitative (like the number of images, number of videos, etc.) and qualitative (like which day it was published and which topic the article falls under) information about the article. The popularity of the article is measured using the Response variable (shares attribute).We want to predict the popularity of a given article based on the given attributes.
 
